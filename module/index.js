@@ -5,7 +5,7 @@ var module = (function(){
     }
 
     return {
-        getUsers: getUsers
+        getUsers
     }
 })
 
